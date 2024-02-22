@@ -80,7 +80,7 @@ Pacific and Atlantic's January profile (Figure \ref{fig:verttemp}) shows a warm 
 </div>
 
 
-Arctic's salinity plummets deeper than Pacific's, revealing stronger stratification in the Arctic.
+Arctic's salinity plummets deeper than Pacific's (lon = -170°E), revealing stronger stratification in the Arctic (lon = -20°E).
 
 ## Project 2: Temperture and Salinity Analysis on Toulon Bay
 
